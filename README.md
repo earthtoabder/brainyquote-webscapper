@@ -1,2 +1,2 @@
-# brainyquote-webscapper
-A quote scrapper for the brainyquotes website
+# Brainyquote-webscapper
+A simple python quote scrapper for the brainyquotes website
